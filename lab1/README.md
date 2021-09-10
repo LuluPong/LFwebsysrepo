@@ -20,7 +20,7 @@ microformats and XHTML, I was able to understand why I was including them in my 
 
 I got a bit carried away and started adding CSS before my group decided on a design style.
 Unfortunately, I completed the whole page using a CSS framework before realizing my mistake. Thankfully, one of my groupmates reminded me of the instructions and
-I was able to strip most off the framework from my code. I an unnecessary amount of div and span tags in my project but
+I was able to strip most off the framework from my code. I have an unnecessary amount of div and span tags in my project but
 because of time constraints I could not remove them all.
 
 ***NEW UPDATE***
