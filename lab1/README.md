@@ -23,6 +23,13 @@ Unfortunately, I completed the whole page using a CSS framework before realizing
 I was able to strip most off the framework from my code. I an unnecessary amount of div and span tags in my project but
 because of time constraints I could not remove them all.
 
+***NEW UPDATE***
+I ended up using the Bulma framework again after seeing how well-designed many of the groups' webpages were.
+*While Bulma is a nice and minimalistic framework to implement, I think Bootstrap offers more room for creativity
+
+Our group moved all our files out of our original group repo and into a new organization repo
+
+
 Validating my HTML was not too much of an issue except I forgot to add <ul*> tags before I started using <*li> tags.
   
-Resources used: bulma.io
+Resources used: bulma.io documentation
