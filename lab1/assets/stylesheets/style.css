@@ -1,3 +1,6 @@
+@import "https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css";
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Bree+Serif&family=Oswald:wght@200&display=swap');
+
 /* -------------------------------- GROUP PORTFOLIO PAGE CSS -------------------------------- */
 /* website thumbnails */
 .thumbnail {
@@ -86,4 +89,31 @@ body { /* body */
 }
 time { 
   font-size: 0.8em;
+}
+
+/* Amado's Profile Picture styling*/
+.amadopfp {
+  height: 300px;
+  width: 200px;
+}
+
+
+/*___________Lourdes's Individual Portfolio Page_______________*/
+
+
+.is-size-3 {
+    font-family: Bebas Neue;
+}
+
+.is-size-4 {
+    font-family: Bree Serif;
+}
+
+.is-1 {
+    font-family: Oswald;
+    font-weight: bold;
+}
+
+.subtitle {
+    font-family: Bree Serif;
 }
