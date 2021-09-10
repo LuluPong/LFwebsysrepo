@@ -23,6 +23,6 @@ Unfortunately, I completed the whole page using a CSS framework before realizing
 I was able to strip most off the framework from my code. I an unnecessary amount of div and span tags in my project but
 because of time constraints I could not remove them all.
 
-Validating my HTML was not too much of an issue except I forgot to add <ul> tags before I started using <*li> tags.
+Validating my HTML was not too much of an issue except I forgot to add <ul*> tags before I started using <*li> tags.
   
 Resources used: bulma.io
