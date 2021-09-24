@@ -17,3 +17,14 @@ the text easier to read.
 http://www.simplifiedconstitution.com/
 https://constitution.congress.gov/constitution/
 https://law.justia.com/constitution/us/article-2/01-executive-department.html
+
+
+
+___________________
+Individual
+___________________
+
+I added Google fonts and images to the webpage. Since the main html was already
+done by one group member, there was not much to add. There still seems to be communication issues.
+Even though I made a branch that added Google Fonts to the majority of the webpage, another member 
+also added fonts to the webpage. I decided not to merge my branch so there would not be a CSS conflict.
