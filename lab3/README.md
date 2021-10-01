@@ -29,5 +29,7 @@ to give it a little more pop.***
 
 After Friday's class I decided to try hover.css. Unfortunately, hover.css created a lot of conflicts with the bulma framework. Hover.css would change the padding ad margins on most of the items on my page. Some animations would not even run. 
 
+Apology:
+***I MADE THE MISTAKE OF NOT CREATING A PROPER FILE SUBSYSTEM. I TRIED TO MAKE ALL THE NECESSARY CHANGES BUT IT BROKE MY CODE. so i changed it back.***
 
 Sources: Bulma.io documentation, hover.css, W3docs
