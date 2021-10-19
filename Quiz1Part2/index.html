@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Currency Converter</title>
+    <meta name="viewport" content="width=device-width", initial-scale=1>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+</head>
+<body>
+    <h2>Currency Converter</h2>
+    <div>
+        <input type="number" class="form-input" id="number" placeholder="Enter currency here">
+    </div>
+    <div class="select">
+        <select name="currency" class="currency"></select>
+    </div>
+
+    <div>
+        <input type="text" class="form-input" id="output">
+    </div>
+    <div class="select">
+        <select name="currency" class="currency"></select>
+    </div>
+
+    <script>
+        const select = document.querySelectorAll('.currency');
+        const number = document.getElementById("number");
+        const output = document.getElementById("output");
+
+        fetch('https://api.frankfurter.app/currencies').then((data) => data.json())
+        .then(data) => {
+            display(data);
+        });
+
+        function display(data) {
+            const entries = Object.entries(data);
+            for (var i = 0; i < entries.length;  i++){
+                select[0].innerHTML += '<option value="${entries[i][0]}">${entries[i][0]} : {entries[i][1]}</option>';
+                select[1].innerHTML += '<option value="${entries[i][0]}">${entries[i][0]} : {entries[i][1]}</option>';
+            }
+        }
+    </script>
+</body>
+</html>
