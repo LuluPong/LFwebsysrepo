@@ -9,13 +9,13 @@ _____________________________
 
 **Part 2**
 -----------
-1)ALTER TABLE students
+1)	ALTER TABLE students
 	ADD COLUMN street varchar(255),
 	ADD COLUMN city varchar(255),
 	ADD COLUMN state char(2),
 	ADD COLUMN zip_code int(5);
 
-2)ALTER TABLE courses
+2)	ALTER TABLE courses
 	ADD COLUMN section int(3),
 	ADD COLUMN year int(4);
 
