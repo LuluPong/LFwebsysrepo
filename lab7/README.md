@@ -2,10 +2,13 @@ Lab 7
 _____________________________
 Individual Lab: The Gradebook
 _____________________________
+I found this lab to be difficult. I was able to do Parts 1 and 2 with a little extra thinking; however, Part 3 just frustrated me. The first 3 parts(adding columns, values, etc) were difficult for me to implement. Each time I tried to pass a user input, I would get an error that the input variable I created for it did not exist(similar to last lab)... Showing the lists were easier to implement since I figured using a button would solve that issue.
+
+
 
 **Part 1**
 -----------
-
+*Visible in database txt file*
 
 **Part 2**
 -----------
