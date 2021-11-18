@@ -9,6 +9,21 @@ _____________________________
 **Part 1**
 -----------
 *Visible in database txt file*
+1) CREATE TABLE courses(
+ 	crn int(11) PRIMARY KEY,
+ 	prefix varchar(4) NOT NULL,
+ 	number smallint(4) NOT NULL,
+ 	title varchar(255) NOT NULL
+ )
+
+2) CREATE TABLE students(
+ 	RIN int(9) PRIMARY KEY,
+ 	RCSID char(7),
+ 	first_name varchar(100) NOT NULL,
+ 	last_name varchar(100) NOT NULL,
+ 	alias varchar(100) NOT NULL,
+ 	phone int(10)
+ )
 
 **Part 2**
 -----------
