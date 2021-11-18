@@ -2,7 +2,7 @@ Lab 7
 _____________________________
 Individual Lab: The Gradebook
 _____________________________
-Im sorry. I found this lab to be quite difficult. I was able to do Parts 1 and 2 with a little extra thinking; however, Part 3 just frustrated me. The first 3 parts(adding columns, values, etc) were difficult for me to implement. Each time I tried to pass a user input, I would get an error that the input variable I created for it did not exist(similar to last lab)... Showing the lists were easier to implement since I figured using a button would solve that issue.
+ I found this lab to be quite difficult. I was able to do Parts 1 and 2 with a little extra thinking; however, Part 3 just frustrated me. The first 3 parts(adding columns, values, etc) were difficult for me to implement. Each time I tried to pass a user input, I would get an error that the input variable I created for it did not exist(similar to last lab)... Showing the lists were easier to implement since I figured using a button would solve that issue. *I went to office hours and was able to resolve this issue*. After fixing this issue I was able to do MOST of the requirements for part three in my interface. For inserting data into the table, I was not sure how to account for new columns created by users. It's janky but it works... 
 
 
 
@@ -83,5 +83,3 @@ Im sorry. I found this lab to be quite difficult. I was able to do Parts 1 and 2
   	INNER JOIN courses ON grades.crn = courses.crn
   	GROUP BY courses.title
     
-**Part 3**
------------
