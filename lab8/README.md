@@ -13,6 +13,8 @@ were all "Lab" + "number".
 ----------------
 I had trouble reading the JSON file into my JS file.
 
+I know I am going to get in trouble for hardcoding the navigation but I couldnt get my JS to parse my JSON file.
+
 
 **Part 3:**
 ----------------
