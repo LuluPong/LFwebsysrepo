@@ -11,7 +11,7 @@ were all "Lab" + "number".
 
 **Part 2:**
 ----------------
-
+I had trouble reading the JSON file into my JS file.
 
 
 **Part 3:**
