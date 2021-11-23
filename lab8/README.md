@@ -13,7 +13,7 @@ were all "Lab" + "number".
 ----------------
 I had trouble reading the JSON file into my JS file.
 
-I know I am going to get in trouble for hardcoding the navigation but I couldnt get my JS to parse my JSON file.
+I know I am going to get in trouble for hardcoding the navigation but I couldnt get my JS to parse my JSON file. I spent over two days trying to figure out what the issue was. I was able to parse json written within the script tags but any files I tried to parse would return nothing. I could not even get output to show in the console on VSCode and the console available in Developer Tools.
 
 
 **Part 3:**
